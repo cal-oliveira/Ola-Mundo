@@ -3,4 +3,4 @@
 
  Repositório criado durante uma aula gravada!
  
- Essa linha eu adicioneo diretamente no site( do GitHub )! 
+ Essa linha eu adicionei diretamente no site( do GitHub )! 
